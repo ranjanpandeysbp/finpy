@@ -1,3 +1,4 @@
+#https://github.com/TA-Lib/ta-lib-python
 candlestick_patterns = {
     'CDL2CROWS':'Two Crows',
     'CDL3BLACKCROWS':'Three Black Crows',
