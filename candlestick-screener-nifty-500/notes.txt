@@ -1,0 +1,7 @@
+pip https://blog.quantinsti.com/install-ta-lib-python/
+flask run
+https://www.youtube.com/watch?v=OhvQN_yIgCo&t=270s
+https://www.youtube.com/watch?v=QGkf2-caXmc
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib
+https://en.wikipedia.org/wiki/NIFTY_50
+https://finviz.com/
