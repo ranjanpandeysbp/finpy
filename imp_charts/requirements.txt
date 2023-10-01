@@ -4,3 +4,4 @@ backtrader
 pandas
 yfinance
 matplotlib
+mplfinance
